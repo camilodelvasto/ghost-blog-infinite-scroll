@@ -42,8 +42,8 @@ Open the default.hbs again and import the infinitescroll.js
 ```
 
 #NOTES
-1.In order to have the new posts loaded before the footer tag, I had to add a `<div class="posts-section">` to the markup on both index and author templates for my theme. You might not need this, but then update the corresponding section in the code above to reflect the markup on your theme.
+1. In order to have the new posts loaded before the footer tag, I had to add a `<div class="posts-section">` to the markup on both index and author templates for my theme. You might not need this, but then update the corresponding section in the code above to reflect the markup on your theme.
 
-1.The plugin won't work on a standard (Casper) installation of ghost, I had to modify it for my theme. Refer to the original project if or drop me a line if you want help setting it for yours.
+2. The plugin won't work on a standard (Casper) installation of ghost, I had to modify it for my theme. Refer to the original project if or drop me a line if you want help setting it for yours.
 
-forked from https://github.com/z0pe/ghost-blog-infinite-scroll
+3. This plugin was forked from https://github.com/z0pe/ghost-blog-infinite-scroll - many thanks to the author!
